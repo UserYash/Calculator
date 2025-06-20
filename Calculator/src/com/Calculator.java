@@ -16,5 +16,9 @@ public class Calculator {
 	{
 		System.out.println("Substraction method");
 	}
-	
+
+	public void div()
+	{
+		System.out.println("Division method");
+	}
 }
