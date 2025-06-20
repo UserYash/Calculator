@@ -12,4 +12,9 @@ public class Calculator {
 		System.out.println("Multiply method ");
 	}
 	
+	public void sub()
+	{
+		System.out.println("Substraction method");
+	}
+	
 }
