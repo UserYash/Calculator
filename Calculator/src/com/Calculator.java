@@ -9,7 +9,7 @@ public class Calculator {
 
 	public void mul()
 	{
-		System.out.println("Addtion method ");
+		System.out.println("Multiply method ");
 	}
 	
 }
